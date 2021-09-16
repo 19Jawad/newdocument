@@ -1,0 +1,2 @@
+# newdocument
+code bash
